@@ -1,6 +1,6 @@
-NAMA :
+NAMA : Jovanca Esha Nandini
 </br>
-NPM  :
+NPM  : 2135076
 </br>
 
 Tugas 1 : Silahkan buat 4 buah tombol, yaitu tombol A, B, C dan D. Jika tombol di klik maka akan pergi ke tombol yang di inginkan
